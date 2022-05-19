@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.athzaq.menitcom">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Menitcom"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".activity.detailactivity.DetailNewsKoreaSelatanActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activity.DetailNewsOlahragaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activity.detailactivity.DetailNewsOlahragaaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activity.detailactivity.DetailNewsBisnisActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activity.NewsKoreaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activity.NewsSaudiArabiaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".kategoriactivity.NewsOlahragaActivity"
+            android:exported="true" />
+        <activity
+            android:name=".kategoriactivity.NewsSainsActivity"
+            android:exported="true" />
+        <activity
+            android:name=".WebViewActivity"
+            android:exported="true" />
+        <activity
+            android:name=".kategoriactivity.NewsBisnisActivity"
+            android:exported="true" />
+        <activity
+            android:name=".covid.DataProvinsiCovidActivity"
+            android:exported="true" />
+        <activity
+            android:name=".covid.MeninggalCovidActivity"
+            android:exported="true" />
+        <activity
+            android:name=".covid.SembuhCovidActivity"
+            android:exported="true" />
+        <activity
+            android:name=".covid.PositveCovidActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activity.detailactivity.DetailNewsUKActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activity.detailactivity.DetailNewsUSActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activity.detailactivity.DetailNewsIndoActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activity.NewsUKActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activity.NewsUSActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name=".activity.NewsIndoActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name=".activity.MainActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

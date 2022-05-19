@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ATHALLAH/AndroidStudioProjects/Menitcom/app/src/main/res/layout/activity_data_provinsi_covid.xml" value="0.2" />
+        <entry key="..\:/Users/ATHALLAH/AndroidStudioProjects/Menitcom/app/src/main/res/layout/activity_detail_news_bisnis.xml" value="0.264" />
+        <entry key="..\:/Users/ATHALLAH/AndroidStudioProjects/Menitcom/app/src/main/res/layout/activity_detail_news_entertaiment.xml" value="0.17335526315789473" />
+        <entry key="..\:/Users/ATHALLAH/AndroidStudioProjects/Menitcom/app/src/main/res/layout/activity_detail_news_indo.xml" value="0.264" />
+        <entry key="..\:/Users/ATHALLAH/AndroidStudioProjects/Menitcom/app/src/main/res/layout/activity_detail_news_korea_selatan.xml" value="0.17315573770491804" />
+        <entry key="..\:/Users/ATHALLAH/AndroidStudioProjects/Menitcom/app/src/main/res/layout/activity_detail_news_mesir.xml" value="0.17315573770491804" />
+        <entry key="..\:/Users/ATHALLAH/AndroidStudioProjects/Menitcom/app/src/main/res/layout/activity_detail_news_olahraga.xml" value="0.17335526315789473" />
+        <entry key="..\:/Users/ATHALLAH/AndroidStudioProjects/Menitcom/app/src/main/res/layout/activity_detail_news_ukactivity.xml" value="0.17335526315789473" />
+        <entry key="..\:/Users/ATHALLAH/AndroidStudioProjects/Menitcom/app/src/main/res/layout/activity_detail_news_usactivity.xml" value="0.17335526315789473" />
+        <entry key="..\:/Users/ATHALLAH/AndroidStudioProjects/Menitcom/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ATHALLAH/AndroidStudioProjects/Menitcom/app/src/main/res/layout/activity_meninggal_covid.xml" value="0.264" />
+        <entry key="..\:/Users/ATHALLAH/AndroidStudioProjects/Menitcom/app/src/main/res/layout/activity_news_bisnis.xml" value="0.16051912568306012" />
+        <entry key="..\:/Users/ATHALLAH/AndroidStudioProjects/Menitcom/app/src/main/res/layout/activity_news_entertaiment.xml" value="0.1" />
+        <entry key="..\:/Users/ATHALLAH/AndroidStudioProjects/Menitcom/app/src/main/res/layout/activity_news_indo.xml" value="0.15319767441860466" />
+        <entry key="..\:/Users/ATHALLAH/AndroidStudioProjects/Menitcom/app/src/main/res/layout/activity_news_korea.xml" value="0.1478825136612022" />
+        <entry key="..\:/Users/ATHALLAH/AndroidStudioProjects/Menitcom/app/src/main/res/layout/activity_news_sains.xml" value="0.536" />
+        <entry key="..\:/Users/ATHALLAH/AndroidStudioProjects/Menitcom/app/src/main/res/layout/activity_news_saudi_arabia.xml" value="0.1478825136612022" />
+        <entry key="..\:/Users/ATHALLAH/AndroidStudioProjects/Menitcom/app/src/main/res/layout/activity_news_ukactivity.xml" value="0.17753623188405798" />
+        <entry key="..\:/Users/ATHALLAH/AndroidStudioProjects/Menitcom/app/src/main/res/layout/activity_news_usactivity.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/ATHALLAH/AndroidStudioProjects/Menitcom/app/src/main/res/layout/activity_positve_covid.xml" value="0.176" />
+        <entry key="..\:/Users/ATHALLAH/AndroidStudioProjects/Menitcom/app/src/main/res/layout/activity_sembuh_covid.xml" value="0.2" />
+        <entry key="..\:/Users/ATHALLAH/AndroidStudioProjects/Menitcom/app/src/main/res/layout/activity_web_view.xml" value="0.4" />
+        <entry key="..\:/Users/ATHALLAH/AndroidStudioProjects/Menitcom/app/src/main/res/layout/item_recycler_arab.xml" value="0.1478825136612022" />
+        <entry key="..\:/Users/ATHALLAH/AndroidStudioProjects/Menitcom/app/src/main/res/layout/item_recycler_bisnis.xml" value="0.2" />
+        <entry key="..\:/Users/ATHALLAH/AndroidStudioProjects/Menitcom/app/src/main/res/layout/item_recycler_dataprovinsi.xml" value="0.4" />
+        <entry key="..\:/Users/ATHALLAH/AndroidStudioProjects/Menitcom/app/src/main/res/layout/item_recycler_entertaiment.xml" value="0.1523224043715847" />
+        <entry key="..\:/Users/ATHALLAH/AndroidStudioProjects/Menitcom/app/src/main/res/layout/item_recycler_indo.xml" value="0.2" />
+        <entry key="..\:/Users/ATHALLAH/AndroidStudioProjects/Menitcom/app/src/main/res/layout/item_recycler_korea.xml" value="0.1478825136612022" />
+        <entry key="..\:/Users/ATHALLAH/AndroidStudioProjects/Menitcom/app/src/main/res/layout/item_recycler_sains.xml" value="0.1523224043715847" />
+        <entry key="..\:/Users/ATHALLAH/AndroidStudioProjects/Menitcom/app/src/main/res/layout/item_recycler_uk.xml" value="0.176" />
+        <entry key="..\:/Users/ATHALLAH/AndroidStudioProjects/Menitcom/app/src/main/res/layout/item_recycler_us.xml" value="0.2" />
+        <entry key="..\:/Users/ATHALLAH/AndroidStudioProjects/Menitcom/app/src/main/res/menu/menu_profile.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
